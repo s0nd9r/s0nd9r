@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![s0nder's github stats](https://github-readme-stats.vercel.app/api?username=wylsy&theme=onedark)]()
+
+- 📫 How to reach me: 
+
+  * Email: wylsyr@gmail.com
