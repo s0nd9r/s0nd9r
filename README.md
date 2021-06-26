@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![s0nder's github stats](https://github-readme-stats.vercel.app/api?username=wylsy&theme=onedark)]()
+[![s0nder's github stats](https://github-readme-stats.vercel.app/api?username=wylsy&theme=onedark)](https://github.com/wylsy)
 
 - 📫 How to reach me: 
 
