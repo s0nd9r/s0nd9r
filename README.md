@@ -1,8 +1,11 @@
 ### Hi there 👋
-
-<img src="https://weather-icon.journeyad.repl.co/@hefei?v=1" align="left"/>
-<img src="https://i.postimg.cc/X7QngFVm/Night-Coding.gif" align="right"/><br>
-
+<p align="center">
+<a>
+    <img height="100em" src="https://weather-icon.journeyad.repl.co/@hefei?v=1" align="left"/>
+    <img height="100em" src="https://i.postimg.cc/X7QngFVm/Night-Coding.gif" align="right"/>
+</a>
+</p>
+<br/><br/><br/>
 
 ### 🛠 &nbsp;Languages & Tools
 - 💻 &nbsp;
@@ -25,6 +28,7 @@
   [![Android Studio](https://img.shields.io/badge/-Android_Studio-333333?logo=Android+Studio&logoColor=green)](https://developer.android.google.cn/)
   [![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
   [![Sublime Text](https://img.shields.io/badge/sublime_text-333333.svg?&style=flat&logo=sublime-text&logoColor=important)](http://www.sublimetext.com/)
+
 
 ### 🎮 &nbsp;Console & Game
 [^_^]: ![Switch](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
