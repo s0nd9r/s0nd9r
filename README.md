@@ -1,11 +1,10 @@
 ### Hi there 👋
-<p align="center">
-<a>
-    <img height="100em" src="https://weather-icon.journeyad.repl.co/@hefei?v=1" align="left"/>
-    <img height="100em" src="https://i.postimg.cc/X7QngFVm/Night-Coding.gif" align="right"/>
+<p>
+<a href="https://github.com/wylsy">
+    <img height="100em" src="https://weather-icon.journeyad.repl.co/@hefei?v=1"/>
+    <img height="100em" src="https://i.postimg.cc/X7QngFVm/Night-Coding.gif"/>
 </a>
 </p>
-<br/><br/><br/>
 
 ### 🛠 &nbsp;Languages & Tools
 - 💻 &nbsp;
