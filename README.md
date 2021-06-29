@@ -8,45 +8,54 @@
 
 ### 🛠 &nbsp;Languages & Tools
 - 💻 &nbsp;
-  [![Windows](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10/)
-  [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-  [![macOS](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-  [![Android](https://img.shields.io/badge/Android-333333?style=flat&logo=android&logoColor=white)](https://developer.android.google.cn/)
+  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-10/)
+  [![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+  [![macOS](https://img.shields.io/badge/macOS-ffffff?style=flate&logo=apple&logoColor=black)](https://www.tonymacx86.com/)
+  [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.google.cn/)
 - 🌐 &nbsp;
-  [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org/)
-  [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)](https://www.java.com/)
-  [![Golang](https://img.shields.io/badge/-Golang-333333?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+  [![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=Java&logoColor=white)](https://www.java.com/)
+  [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
 - ⚙️ &nbsp;
   [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](https://git-scm.com/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/)
   [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](http://markdown.p2hp.com/index.html)
 - 🔧 &nbsp;
   [![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-333333?style=flat&logo=visual%20studio&logoColor=5C2D91)](https://code.visualstudio.com/)
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
   [![Eclipse](https://img.shields.io/badge/-Eclipse-333333?logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org/)
   [![Android Studio](https://img.shields.io/badge/-Android_Studio-333333?logo=Android+Studio&logoColor=green)](https://developer.android.google.cn/)
-  [![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+  [![Pycharm](https://img.shields.io/badge/-Pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
   [![Sublime Text](https://img.shields.io/badge/sublime_text-333333.svg?&style=flat&logo=sublime-text&logoColor=important)](http://www.sublimetext.com/)
 
 
 ### 🎮 &nbsp;Console & Game
-[^_^]: ![Switch](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[>_<]: [![PlayStation](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/)
-[![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/)
+[^_^]: [![PlayStation](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/)
+[>_<]: [![Nintendo-Switch](https://img.shields.io/badge/Nintendo_Switch-00BDE2?style=flat&logo=Nintendo-Switch&logoColor=white)](https://www.nintendo.com/switch/)
+[>_>]: [![XBOX-360](https://img.shields.io/badge/XBOX%20360-107C10?style=for&logo=xbox&logoColor=white)](https://www.xbox.com/)
 
+[![Steam](https://img.shields.io/badge/Steam-171a21?style=flat&logo=steam&logoColor=ffffff)](https://steamcommunity.com/)
+[![Ubisoft](https://img.shields.io/badge/-Ubisoft-224099?style=flat&logo=Ubisoft&logoColor=FFFFFF)](https://www.ubisoft.com/)
+[![Epic games](https://img.shields.io/badge/Epic%20games-313131?style=flat&logo=epic-games&logoColor=white)](https://www.epicgames.com/)
+[![Origin](https://img.shields.io/badge/-Origin-F56C2D?style=flat-square&logo=Origin&logoColor=FFFFFF)](https://www.origin.com/)
+
+
+[![bilibili](https://img.shields.io/badge/bilibili-FFFEFE?style=flat-square&logo=bilibili&logoColor=00B1FD)](https://www.bilibili.com/)
+[![Youtube](https://img.shields.io/badge/Youtube-FFFEFE?style=flat-square&logo=Youtube&logoColor=FE0000)](https://www.youtube.com/)
+[![instagram](https://img.shields.io/badge/instagram-FFFEFE?style=flat-square&logo=instagram&logoColor=E735A3)](https://www.instagram.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-FFFEFE?style=flat-square&logo=twitter&logoColor=1DA1F2)](https://twitter.com/)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/wylsy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wylsy&count_private=true&show_icons=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wylsy&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wylsy&count_private=true&show_icons=true&layout=compact&hide_border=true&langs_count=8" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wylsy&layout=compact&hide_border=true" />
 </a>
 </p>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<!--<a href="/"><img alt="Website" src="https://img.shields.io/badge/Website-www.google.com-blue?style=flat-square&logo=google-chrome"></a>-->
+<a href="https://github.com/"><img alt="Email" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a>
 <a href="wylsyr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wylsyr@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
