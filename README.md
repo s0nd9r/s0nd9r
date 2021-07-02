@@ -17,13 +17,13 @@
   [![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=Java&logoColor=white)](https://www.java.com/)
   [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/)
 - ⚙️ &nbsp;
-  [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](https://git-scm.com/)
+  [![Git](https://img.shields.io/badge/-Git-f0efe7?style=flat&logo=git)](https://git-scm.com/)
   [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](http://markdown.p2hp.com/index.html)
 - 🔧 &nbsp;
-  [![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-333333?style=flat&logo=visual%20studio&logoColor=5C2D91)](https://code.visualstudio.com/)
-  [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-  [![Eclipse](https://img.shields.io/badge/-Eclipse-333333?logo=Eclipse&logoColor=2C2255)](https://www.eclipse.org/)
-  [![Android Studio](https://img.shields.io/badge/-Android_Studio-333333?logo=Android+Studio&logoColor=green)](https://developer.android.google.cn/)
+  [![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=flat&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
+  [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+  [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=Eclipse&logoColor=white)](https://www.eclipse.org/)
+  [![Android Studio](https://img.shields.io/badge/-Android_Studio-green?logo=Android+Studio&logoColor=white)](https://developer.android.google.cn/)
   [![Pycharm](https://img.shields.io/badge/-Pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
   [![Sublime Text](https://img.shields.io/badge/sublime_text-333333.svg?&style=flat&logo=sublime-text&logoColor=important)](http://www.sublimetext.com/)
 
