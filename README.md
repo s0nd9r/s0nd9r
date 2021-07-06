@@ -1,8 +1,9 @@
 ### Hi there 👋
 <p>
 <a href="https://github.com/wylsy">
-    <img height="100em" src="https://weather-icon.journeyad.repl.co/@hefei?v=1"/>
     <img height="100em" src="https://i.postimg.cc/X7QngFVm/Night-Coding.gif"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&vCenter=true&width=500&height=50&lines=一切尽意，百事从欢;愿所得皆所期，所失皆无碍;与君同舟渡，达岸各自归;与其互为人间，不如自成宇宙;行路难，不在山，不在水，只在人情反覆间;我们总会相遇，我们总会离别;人生来来往往，来日并不方长;没有一个冬天不可逾越，没有一个春天不会来临;太阳温暖早起的人，月亮陪伴熬夜的人;天空黑暗到一定程度，星辰就会熠熠生辉;醉后不知天在水，满船清梦压星河"/>
+    <img height="100em" src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1"/>
 </a>
 </p>
 
@@ -20,8 +21,8 @@
   [![Git](https://img.shields.io/badge/-Git-f0efe7?style=flat&logo=git)](https://git-scm.com/)
   [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](http://markdown.p2hp.com/index.html)
 - 🔧 &nbsp;
-  [![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=flat&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+  [![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=flat&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
   [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=Eclipse&logoColor=white)](https://www.eclipse.org/)
   [![Android Studio](https://img.shields.io/badge/-Android_Studio-green?logo=Android+Studio&logoColor=white)](https://developer.android.google.cn/)
   [![Pycharm](https://img.shields.io/badge/-Pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
