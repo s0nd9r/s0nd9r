@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hey <img src="https://github.com/dqzboy/dqzboy/assets/42825450/97471f55-148e-41af-a79c-63fcda189a81" width="28px">
+
+<img src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+
+<!--
+✨STAR
+---
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=s0nd9r&show_icons=true&theme=tokyonight)-->
+
+😄Visitor
+---
+![Visitor Count](https://profile-counter.glitch.me/{s0nd9r}/count.svg)
+<!--
+⚡Language
+---
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=s0nd9r&layout=compact&theme=tokyonight)-->
+
+
 
 <!--
 **s0nd9r/s0nd9r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
