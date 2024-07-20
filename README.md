@@ -5,20 +5,21 @@
 <!--
 ✨STAR
 ---
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=s0nd9r&show_icons=true&theme=tokyonight)-->
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=whoopscs&show_icons=true&theme=tokyonight)-->
 
 😄Visitor
 ---
-![Visitor Count](https://profile-counter.glitch.me/{s0nd9r}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{whoopscs}/count.svg)
+
 <!--
 ⚡Language
 ---
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=s0nd9r&layout=compact&theme=tokyonight)-->
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=whoopscs&layout=compact&theme=tokyonight)-->
 
 
 
 <!--
-**s0nd9r/s0nd9r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**whoopscs/whoopscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
